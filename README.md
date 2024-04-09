@@ -1,2 +1,2 @@
 # Thick-vs-thin-IOSTMW
-Code to reproduce figures
+`Code to reproduce figures`
