@@ -4,6 +4,6 @@
 
 Code to reproduce figures in the paper (soon to be submitted...)
 
-Due to the large size, `argo_study_area_dec_jan.nc` is not available in GitHub and can only be downloaded from Zenodo. 
+Due to its large size, `argo_study_area_dec_jan.nc` is not available on GitHub and can only be downloaded from Zenodo. 
 
 Simply run `Adiwira and Suga (2024).ipynb` to reproduce all the figures.
