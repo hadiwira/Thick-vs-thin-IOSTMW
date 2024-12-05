@@ -4,6 +4,4 @@
 
 Code to reproduce figures in "The Relationship Between Indian Ocean Subtropical Mode Water Variability and Ocean Temperature Structure" (Adiwira, Suga, and Richards, 2024; https://doi.org/10.1029/2024JC021226)
 
-Due to its large size, `argo_study_area_dec_jan.nc` is not available on GitHub and can only be downloaded from Zenodo. 
-
 Simply run `Adiwira and Suga (2024).ipynb` to reproduce all the figures.
